@@ -1,33 +1,18 @@
-
 name = "Haptik"
 license = "MIT"
-licenselink = "https://github.com/damianflynn/Haptik/blob/main/LICENSE"
-description = "A Clean, Elegant but Advanced Hugo Theme for Hugo."
-homepage = "https://github.com/damianflynn/haptik"
-demosite = "https://www.damianflynn.com"
-tags = [
-  "blog",
-  "clean",
-  "responsive",
-  "dark",
-  "theme"
-]
-features = [
-  "cover-image",
-  "favicon",
-  "multilingual",
-  "pagination",
-  "social-menu",
-  "syntax-highlighting",
-  "SEO Optimized"
-]
+licenselink = "https://github.com/DamianFlynn/hugo-haptic-theme/blob/main/LICENSE"
+description = "A clean, elegant and powerful Hugo theme"
+homepage = "https://github.com/DamianFlynn/hugo-haptic-theme"
+tags = ["blog", "responsive", "clean", "elegant", "modern"]
+features = ["responsive", "dark mode", "code highlighting", "search", "social links"]
+min_version = "0.122.0"
 
 [author]
   name = "Damian Flynn"
-  homepage = "https://github.com/damianflynn/"
+  homepage = "https://damianflynn.com"
 
 [original]
-  name = Damian Flynn"
+  name = "Damian Flynn"
   homepage = "https://github.com/damianflynn/"
   repo = "https://github.com/damianflynn/"
 
